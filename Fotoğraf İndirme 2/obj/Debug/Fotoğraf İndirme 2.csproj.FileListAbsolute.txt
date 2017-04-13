@@ -1,0 +1,12 @@
+c:\users\furkan\documents\visual studio 2015\Projects\Fotoğraf İndirme 2\Fotoğraf İndirme 2\bin\Debug\Fotoğraf İndirme 2.exe.config
+c:\users\furkan\documents\visual studio 2015\Projects\Fotoğraf İndirme 2\Fotoğraf İndirme 2\bin\Debug\Fotoğraf İndirme 2.exe
+c:\users\furkan\documents\visual studio 2015\Projects\Fotoğraf İndirme 2\Fotoğraf İndirme 2\bin\Debug\Fotoğraf İndirme 2.pdb
+c:\users\furkan\documents\visual studio 2015\Projects\Fotoğraf İndirme 2\Fotoğraf İndirme 2\bin\Debug\HtmlAgilityPack.dll
+c:\users\furkan\documents\visual studio 2015\Projects\Fotoğraf İndirme 2\Fotoğraf İndirme 2\bin\Debug\HtmlAgilityPack.pdb
+c:\users\furkan\documents\visual studio 2015\Projects\Fotoğraf İndirme 2\Fotoğraf İndirme 2\bin\Debug\HtmlAgilityPack.xml
+c:\users\furkan\documents\visual studio 2015\Projects\Fotoğraf İndirme 2\Fotoğraf İndirme 2\obj\Debug\Fotoğraf İndirme 2.csprojResolveAssemblyReference.cache
+c:\users\furkan\documents\visual studio 2015\Projects\Fotoğraf İndirme 2\Fotoğraf İndirme 2\obj\Debug\Fotoğraf_İndirme_2.Form1.resources
+c:\users\furkan\documents\visual studio 2015\Projects\Fotoğraf İndirme 2\Fotoğraf İndirme 2\obj\Debug\Fotoğraf_İndirme_2.Properties.Resources.resources
+c:\users\furkan\documents\visual studio 2015\Projects\Fotoğraf İndirme 2\Fotoğraf İndirme 2\obj\Debug\Fotoğraf İndirme 2.csproj.GenerateResource.Cache
+c:\users\furkan\documents\visual studio 2015\Projects\Fotoğraf İndirme 2\Fotoğraf İndirme 2\obj\Debug\Fotoğraf İndirme 2.exe
+c:\users\furkan\documents\visual studio 2015\Projects\Fotoğraf İndirme 2\Fotoğraf İndirme 2\obj\Debug\Fotoğraf İndirme 2.pdb
